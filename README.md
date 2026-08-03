@@ -1,5 +1,5 @@
 # 🎓 Engineering Formula Calculator & AI Assistant
-
+🚀 **Live Demo:** [engineering-formula-calculator.streamlit.app](https://engineering-formula-calculator.streamlit.app)
 A modern, interactive Streamlit web application designed for B.Tech engineering students to execute core mathematical and physical computations with step-by-step validation. Built using Python, Streamlit, and a custom Rule-Based Natural Language Processing (NLP) engine for dynamic formula recommendation.
 
 ---
