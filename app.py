@@ -1,10 +1,14 @@
+import sys
+import os
 import streamlit as st
 import math
+
+# Add current directory to path so imports always work smoothly
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from modules.math_engine import MathEngine
 from modules.physics_engine import PhysicsEngine
 from modules.ai_engine import RuleBasedAIEngine
-
 st.set_page_config(
     page_title="Formula Calculator for Engineering Subjects - B.Tech Project",
     page_icon="🎓",
