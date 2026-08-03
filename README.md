@@ -27,6 +27,5 @@ A modern, interactive Streamlit web application designed for B.Tech engineering 
 ## 🚀 Quick Start & Installation
 
 1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/mosesventuri/Engineering-Formula-Calculator-.git](https://github.com/mosesventuri/Engineering-Formula-Calculator-.git)
-   cd Engineering-Formula-Calculator-
+ git clone https://github.com/mosesventuri/Engineering-Formula-Calculator-.git
+cd Engineering-Formula-Calculator-
